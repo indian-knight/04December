@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) {
-        int x = 10;
-        System.out.println(x);
+        int guitar = 11 / 2;
+        System.out.println(guitar + 1);
     }
 }
